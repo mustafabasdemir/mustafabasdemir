@@ -1,8 +1,7 @@
-# Merhaba ben Mustafa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+![resim](img/pp.png)
 Bana kısaca, günümüz teknolojileri çerçevesinde kendini sürekli yenileyen ve bilgilerini çevresine aktarmaya çalışan bir programcı diyebilirsiniz.
 
-### Benimle İletişime Geçin:
+### Benimle İletişime Geçin: <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="70px">
 
 <!--
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
@@ -22,6 +21,7 @@ Bana kısaca, günümüz teknolojileri çerçevesinde kendini sürekli yenileyen
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/mustafa_basdemirr/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/mustafa_basdemirr/#gh-dark-mode-only)
+
 
 #### Languages:
 
