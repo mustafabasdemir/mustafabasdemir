@@ -1,35 +1,32 @@
 ![resim](img/pp.png)
+
+
+### Seni burda gördüğüme sevindim! &nbsp; 
 Bana kısaca, günümüz teknolojileri çerçevesinde kendini sürekli yenileyen ve bilgilerini çevresine aktarmaya çalışan bir programcı diyebilirsiniz.
+Programlamayı, yazmayı, konuşmayı ve seyahat etmeyi seviyorum. Bir yazılımcı olarak, ayrıntılara takıntılı dikkatimi, dünyayı değiştirecek şeyler yaratma konusundaki açık sevgimi kullanmaktan zevk alıyorum. Bu yüzden fark yaratan şeyler yapmayı seviyorum.
 
-### Benimle İletişime Geçin:
 
-<!--
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
--->
-<a href="mailto:basdemir803@gmail.com"><img width="22px" src="./img/mail-142.svg" /></a>
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mustafa-basdemir/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mustafa-basdemir/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/mustafa_basdemirr/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/mustafa_basdemirr/#gh-dark-mode-only)
+
+<img align="right" alt="GIF" src="https://innobyte.com/app/uploads/2017/09/giphydebugging.gif" width="408" height="318" />
+  
+
+**Biraz Kişisel Konuşalım:**
+
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; Şu anda harika bir şey üzerinde çalışıyorum;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Bana bir şeyler sorabilirsin, Yardım etmek mutluluk verici;
+- <img src="img/linkedin-dark.svg"/>&nbsp;&nbsp; Beni linkedin üzerinden takip edebilirsin [linkedin](https://www.linkedin.com/in/mustafa-basdemir/)
+- <img src="img/instagram-dark.svg"/>&nbsp;&nbsp; Dilersen instagram adresimi takip edebilirsin [instagram](https://www.instagram.com/mustafa_basdemirr/)
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; Bana Ulaş: basdemir803@gmail.com;
+
+</br>
 
 
 #### Languages:
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -37,7 +34,6 @@ Bana kısaca, günümüz teknolojileri çerçevesinde kendini sürekli yenileyen
 #### UX/UI:
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 #### Utilities:
@@ -46,10 +42,9 @@ Bana kısaca, günümüz teknolojileri çerçevesinde kendini sürekli yenileyen
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
+
 
 #### DevOps:
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
