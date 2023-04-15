@@ -3,7 +3,7 @@
 
 ### Seni burda gördüğüme sevindim! &nbsp; 
 Bana kısaca, günümüz teknolojileri çerçevesinde kendini sürekli yenileyen ve bilgilerini çevresine aktarmaya çalışan bir programcı diyebilirsiniz.
-Programlamayı, yazmayı, konuşmayı ve seyahat etmeyi seviyorum. Bir yazılımcı olarak, ayrıntılara takıntılı dikkatimi, dünyayı değiştirecek şeyler yaratma konusundaki açık sevgimi kullanmaktan zevk alıyorum. Bu yüzden fark yaratan şeyler yapmayı seviyorum.
+Programlamayı, yazmayı, konuşmayı ve seyahat etmeyi seviyorum. Bir yazılım meraklısı olarak, ayrıntılara takıntılı dikkatimi, dünyayı değiştirecek şeyler yaratma konusundaki açık sevgimi kullanmaktan zevk alıyorum. Bu yüzden fark yaratan şeyler yapmayı seviyorum.
 
 
 
