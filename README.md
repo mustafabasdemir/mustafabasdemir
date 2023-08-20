@@ -16,7 +16,7 @@ Programlamayı, yazmayı, konuşmayı ve seyahat etmeyi seviyorum. Bir yazılım
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Bana bir şeyler sorabilirsin, Yardım etmek mutluluk verici;
 - <img src="img/linkedin-dark.svg"/>&nbsp;&nbsp; Beni linkedin üzerinden takip edebilirsin [linkedin](https://www.linkedin.com/in/mustafa-basdemir/)
 - <img src="img/instagram-dark.svg"/>&nbsp;&nbsp; Dilersen instagram adresimi takip edebilirsin [instagram](https://www.instagram.com/mustafa_basdemirr/)
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; Bana Ulaş: basdemir803@gmail.com;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; Bana Ulaş: mustafabasdemirrr@gmail.com;
 
 </br>
 
