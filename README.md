@@ -1,22 +1,23 @@
 ![resim](img/pp.png)
 
 
-### Seni burda gördüğüme sevindim! &nbsp; 
-Bana kısaca, günümüz teknolojileri çerçevesinde kendini sürekli yenileyen ve bilgilerini çevresine aktarmaya çalışan bir programcı diyebilirsiniz.
-Programlamayı, yazmayı, konuşmayı ve seyahat etmeyi seviyorum. Bir yazılım meraklısı olarak, ayrıntılara takıntılı dikkatimi, dünyayı değiştirecek şeyler yaratma konusundaki açık sevgimi kullanmaktan zevk alıyorum. Bu yüzden fark yaratan şeyler yapmayı seviyorum.
+### It's good to see you here 🥳 &nbsp; 
+You can call me a programmer, who is constantly updating himself in the framework of today's technologies and trying to transfer his knowledge to his environment.
+I love programming, writing and traveling. As a software enthusiast, I enjoy using my obsessive attention to detail and my obvious love for creating things that change the world. 
+That's why I love doing things that make a difference.
 
 
 
-<img align="right" alt="GIF" src="https://innobyte.com/app/uploads/2017/09/giphydebugging.gif" width="408" height="318" />
+<img align="right" alt="GIF" src="https://innobyte.com/app/uploads/2017/09/giphydebugging.gif" width="408" height="250" />
   
 
-**Biraz Kişisel Konuşalım:**
+**Let's get personal:**
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; Şu anda harika bir şey üzerinde çalışıyorum;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Bana bir şeyler sorabilirsin, Yardım etmek mutluluk verici;
-- <img src="img/linkedin-dark.svg"/>&nbsp;&nbsp; Beni linkedin üzerinden takip edebilirsin [linkedin](https://www.linkedin.com/in/mustafa-basdemir/)
-- <img src="img/instagram-dark.svg"/>&nbsp;&nbsp; Dilersen instagram adresimi takip edebilirsin [instagram](https://www.instagram.com/mustafa_basdemirr/)
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; Bana Ulaş: mustafabasdemirrr@gmail.com;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I'm working on something great right now;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; You can ask me anything, I'm happy to help;
+- <img src="img/linkedin-dark.svg"/>&nbsp;&nbsp; You can follow me on linkedin [linkedin](https://www.linkedin.com/in/mustafa-basdemir/)
+- <img src="img/instagram-dark.svg"/>&nbsp;&nbsp; If you wish, you can follow my instagram address [instagram](https://www.instagram.com/mustafa_basdemirr/)
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; Contact Me: mustafabasdemirrr@gmail.com;
 
 </br>
 
@@ -30,26 +31,7 @@ Programlamayı, yazmayı, konuşmayı ve seyahat etmeyi seviyorum. Bir yazılım
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 
-#### UX/UI:
-
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-#### Utilities:
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 
 
-#### DevOps:
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
-![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
-![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white)
 
 
